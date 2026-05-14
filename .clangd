@@ -1,0 +1,5 @@
+CompileFlags:
+  Compiler: C:\msys64\ucrt64\bin\gcc.exe
+  Add:
+    - --target=x86_64-w64-mingw32
+    - -IC:\msys64\ucrt64\include
